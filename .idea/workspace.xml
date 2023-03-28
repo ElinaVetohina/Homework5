@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c74c2cf-8852-44b0-a528-3b209c63a9c8" name="Changes" comment="Modified">
+    <list default="true" id="4c74c2cf-8852-44b0-a528-3b209c63a9c8" name="Changes" comment="bUILD">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <recent name="C:\Users\DEViAS\Desktop\херня эли\aqa-code\Homework5\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.CardDeliveryOrder.shouldSubmitRequest">
+  <component name="RunManager" selected="Gradle.DeliveryTest.testPositiveReschedule">
     <configuration name="CardDeliveryOrder" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -122,8 +121,56 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="DeliveryTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.netology.delivery.test.DeliveryTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DeliveryTest.testPositiveReschedule" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.netology.delivery.test.DeliveryTest.testPositiveReschedule&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.DeliveryTest.testPositiveReschedule" />
+        <item itemvalue="Gradle.DeliveryTest" />
         <item itemvalue="Gradle.CardDeliveryOrder.shouldSubmitRequest" />
         <item itemvalue="Gradle.CardDeliveryOrder" />
       </list>
@@ -173,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680028231606</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="bUILD">
+      <created>1680028431309</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680028431309</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +246,7 @@
     <MESSAGE value="git add" />
     <MESSAGE value="test" />
     <MESSAGE value="Modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified" />
+    <MESSAGE value="bUILD" />
+    <option name="LAST_COMMIT_MESSAGE" value="bUILD" />
   </component>
 </project>
